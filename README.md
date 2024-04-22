@@ -1,2 +1,1 @@
-# estudoDePonteiros
-Estudos sobre ponteiros
+# Estudos sobre ponteiros
